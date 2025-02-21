@@ -2,12 +2,12 @@
 /**
  * Title: Hero Call To Action Buttons Light
  * Slug: ollie/hero-call-to-action-buttons-light
- * Description: 
+ * Description:
  * Categories: ollie/call-to-action, ollie/hero
  * Keywords: cta, header, buttons, heading, hero, feature, homepage
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

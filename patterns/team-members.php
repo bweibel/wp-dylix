@@ -2,12 +2,12 @@
 /**
  * Title: Team Members
  * Slug: ollie/team-members
- * Description: 
+ * Description:
  * Categories: ollie/testimonial, ollie/features
  * Keywords: cta, call, to, action, button
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

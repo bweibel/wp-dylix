@@ -2,12 +2,12 @@
 /**
  * Title: Text and Details Card
  * Slug: ollie/text-and-details-card
- * Description: 
+ * Description:
  * Categories: ollie/call-to-action, ollie/hero, ollie/features, ollie/card
  * Keywords: table, stats, details, list, card
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

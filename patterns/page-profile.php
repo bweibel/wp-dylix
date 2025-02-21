@@ -6,8 +6,8 @@
  * Categories: ollie/call-to-action, ollie/pages
  * Keywords: links, linktree, buttons, profile, bio
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

@@ -2,12 +2,12 @@
 /**
  * Title: Call To Action Card
  * Slug: ollie/card-call-to-action
- * Description: 
+ * Description:
  * Categories: ollie/card, ollie/call-to-action
  * Keywords: card, download, box, link, button, cta, call to action
  * Viewport Width: 600
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

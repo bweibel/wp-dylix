@@ -2,12 +2,12 @@
 /**
  * Title: Text and Image Columns With Icons
  * Slug: ollie/text-and-image-columns-with-icons
- * Description: 
+ * Description:
  * Categories: ollie/features
  * Keywords: cta, call, to, action, button
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

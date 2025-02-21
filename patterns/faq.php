@@ -2,12 +2,12 @@
 /**
  * Title: FAQ
  * Slug: ollie/faq
- * Description: 
+ * Description:
  * Categories: ollie/features
  * Keywords: faq, text, features
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

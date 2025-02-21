@@ -2,12 +2,12 @@
 /**
  * Title: Testimonials With Social Links
  * Slug: ollie/testimonials-with-social-links
- * Description: 
+ * Description:
  * Categories: ollie/call-to-action, ollie/testimonial
  * Keywords: testimonial, social, review, rating, quote, columns, links
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

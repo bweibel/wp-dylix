@@ -2,12 +2,12 @@
 /**
  * Title: Feature Boxes With Button
  * Slug: ollie/feature-boxes-with-button
- * Description: 
+ * Description:
  * Categories: ollie/features
  * Keywords: cta, button, call to action, features, icon, box
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

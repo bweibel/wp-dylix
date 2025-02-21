@@ -6,8 +6,8 @@
  * Categories: ollie/features
  * Keywords: numbers, stats, text, values, count
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

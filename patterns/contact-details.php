@@ -6,8 +6,8 @@
  * Categories: ollie/testimonial, ollie/call-to-action, ollie/hero
  * Keywords: contact, testimonial, about, columns, ratings, email, phone
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>

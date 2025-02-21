@@ -2,12 +2,12 @@
 /**
  * Title: Hero Text, Image, and Logos
  * Slug: ollie/hero-text-image-and-logos
- * Description: 
+ * Description:
  * Categories: ollie/call-to-action, ollie/hero
  * Keywords: cta, header, buttons, heading, hero, feature, homepage
  * Viewport Width: 1500
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 ?>
